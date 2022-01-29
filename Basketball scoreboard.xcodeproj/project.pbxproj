@@ -13,6 +13,7 @@
 		EA418188277602A600B4931F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA418186277602A600B4931F /* Main.storyboard */; };
 		EA41818A277602A600B4931F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA418189277602A600B4931F /* Assets.xcassets */; };
 		EA41818D277602A600B4931F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA41818B277602A600B4931F /* LaunchScreen.storyboard */; };
+		EABBB22F27A4C1E30013A7D8 /* digital-7.regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EABBB22E27A4C1E30013A7D8 /* digital-7.regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA418189277602A600B4931F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA41818C277602A600B4931F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA41818E277602A600B4931F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EABBB22E27A4C1E30013A7D8 /* digital-7.regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "digital-7.regular.ttf"; path = "../../../../Downloads/digital-7.regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				EA418186277602A600B4931F /* Main.storyboard */,
 				EA418189277602A600B4931F /* Assets.xcassets */,
 				EA41818B277602A600B4931F /* LaunchScreen.storyboard */,
+				EABBB22E27A4C1E30013A7D8 /* digital-7.regular.ttf */,
 				EA41818E277602A600B4931F /* Info.plist */,
 			);
 			path = "Basketball scoreboard";
@@ -127,6 +130,7 @@
 				EA41818D277602A600B4931F /* LaunchScreen.storyboard in Resources */,
 				EA41818A277602A600B4931F /* Assets.xcassets in Resources */,
 				EA418188277602A600B4931F /* Main.storyboard in Resources */,
+				EABBB22F27A4C1E30013A7D8 /* digital-7.regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
